@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.bodybg{
+    background: url("../img/back.jpg");
+
+}
+.outer{
+    width:50%;
+    height:35%;
+    background-color: deepskyblue;
+}
